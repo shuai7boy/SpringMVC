@@ -1,0 +1,4 @@
+G:\代码存放\Asp\SpringMVC\SpringMVC.BLL\bin\Debug\SpringMVC.BLL.dll
+G:\代码存放\Asp\SpringMVC\SpringMVC.BLL\bin\Debug\SpringMVC.BLL.pdb
+G:\代码存放\Asp\SpringMVC\SpringMVC.BLL\obj\Debug\SpringMVC.BLL.dll
+G:\代码存放\Asp\SpringMVC\SpringMVC.BLL\obj\Debug\SpringMVC.BLL.pdb

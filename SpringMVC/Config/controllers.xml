@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net">
+<!--控制器里面的UI-->
+  <object type="SpringMVC.Controllers.AdminController, SpringMVC" singleton="false" >
+    <property name="AdminService" ref="AdminService1" />
+  </object>
+  <!--BLL层-->
+  <object name="AdminService1" type="SpringMVC.BLL.AdminService, SpringMVC.BLL" singleton="false" >
+
+  </object>
+</objects>
